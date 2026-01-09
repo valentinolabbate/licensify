@@ -1,0 +1,10 @@
+customtkinter>=5.2.0
+Pillow>=10.0.0
+licensify @ git+https://github.com/valentinolabbate/licensify.git
+pyinstaller>=6.0.0
+# Datenmanagement
+pandas>=2.0.0
+pyarrow>=14.0.0
+openpyxl>=3.1.0
+requests>=2.31.0
+chardet>=5.0.0

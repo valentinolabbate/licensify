@@ -1,0 +1,17 @@
+{
+  "license_key": "TwHPwaICcgyS2cmeGFhKhsrp4gqZeiLY",
+  "validation_result": {
+    "valid": true,
+    "license_type": "trial",
+    "expires_at": "2026-01-09T16:40:57.655358",
+    "days_remaining": 0,
+    "max_devices": 1,
+    "current_devices": 1,
+    "cache_until": "2026-01-09T16:40:57.655358",
+    "features": [],
+    "reason": null,
+    "from_cache": false
+  },
+  "cached_at": "2026-01-08T17:14:43.997523",
+  "cache_until": "2026-01-09T16:40:57.655358"
+}

@@ -1,0 +1,6 @@
+"""
+License Manager Backend Application
+"""
+from app.main import app
+
+__version__ = "1.0.0"
