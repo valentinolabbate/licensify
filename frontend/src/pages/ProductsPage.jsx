@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Plus, Edit2, Trash2, Package, Check, X, Tag, Settings, Monitor } from 'lucide-react';
-import api from '../utils/api';
+import api from '../services/api';
 
 const AVAILABLE_FEATURES = [
   { id: 'basic', name: 'Basis-Funktionen', description: 'Grundlegende Funktionen' },
