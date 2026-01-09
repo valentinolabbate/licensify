@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { useLicenseStore } from '../../store/licenseStore'
 import { X, Check, Package, Euro } from 'lucide-react'
 import toast from 'react-hot-toast'
-import api from '../../utils/api'
+import api from '../../services/api'
 
 export default function CreateLicenseModal({ onClose }) {
   const { createLicense, isLoading } = useLicenseStore()
